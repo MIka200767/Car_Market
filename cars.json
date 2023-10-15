@@ -1,0 +1,14 @@
+{
+    "e770edcb-da80-4ec5-a805-e33835702e7c": {
+        "car mark": "mercedes",
+        "car model": "E_class",
+        "car color": "white",
+        "car price": 20000,
+        "car year": 2007,
+        "Seller": {
+            "Seller name": "mika",
+            "Seller surname": "aydinyan",
+            "Seller city": "yerevan"
+        }
+    }
+}
